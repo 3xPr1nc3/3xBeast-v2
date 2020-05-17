@@ -7,5 +7,5 @@
   <a href="https://github.com/3xPr1nc3/3xBeast-v2"><img src="https://img.shields.io/badge/ICQ-744324366-red.svg" alt="Update" data-canonical-src="https://img.shields.io/badge/ICQ-744324366-red.svg" style="max-width:100%;"></a>
 </p>
 <p>3xBeast v2 is compatible only with this wso -> https://pastebin.com/raw/Ds35ij44</p>
-<p>Note: Do not delete the temp folder</p>
+<p>Note: Do not delete the temp folder!</p>
 <img src="https://raw.githubusercontent.com/3xPr1nc3/3xBeast-v2/master/3xBeastv2.png">
